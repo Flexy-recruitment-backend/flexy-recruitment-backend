@@ -25,7 +25,7 @@ A service is defined by :
 
 ## Questions : 
 ### Manage services menu
-The menu of the “flexy-developper-backend” institute is described in a json file (servicesMenu.json). You can find this file in the git-hub project.
+The menu of the “flexy-developer-backend” institute is described in a json file (servicesMenu.json). You can find this file in the github project.
 
 Write the java code to :
 * Load the services menu into a root category
