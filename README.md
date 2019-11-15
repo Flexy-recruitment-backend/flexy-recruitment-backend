@@ -34,4 +34,4 @@ Write the java code to :
 * Unit test the written code
  
 ### Manage products menu
-A beauty institute also sells products. Suggest an evolution of your code so that it can handle products as well.
+A beauty institute also sells products. So it has a products menu too (in another json file). Suggest an evolution of your code so that it can handle products as well.
