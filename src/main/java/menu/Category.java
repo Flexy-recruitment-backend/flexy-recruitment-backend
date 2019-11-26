@@ -30,6 +30,10 @@ public class Category {
 
     }
 
+    /**
+     *
+     * @param thresholdPrice - threshold to search all services which price is under threshold
+     */
     public void searchByPrice(float thresholdPrice) {
 
     }
