@@ -4,8 +4,8 @@ import org.junit.Test;
 
 import java.io.IOException;
 
-public class BeautyInstitutTest {
-    BeautyInstitut beautyInstitut = new BeautyInstitut();
+public class BeautyInstituteTest {
+    BeautyInstitute beautyInstitut = new BeautyInstitute();
 
     /**
      *

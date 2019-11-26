@@ -9,9 +9,9 @@ import static java.util.logging.Logger.getLogger;
  * This class represents a Beauty institut
  * This class contains the main function of the application
  */
-public class BeautyInstitut {
+public class BeautyInstitute {
 
-    static final Logger LOGGER = getLogger(BeautyInstitut.class.getName());
+    static final Logger LOGGER = getLogger(BeautyInstitute.class.getName());
 
     /**
      *
@@ -31,6 +31,6 @@ public class BeautyInstitut {
      * @param args
      */
     public static void main(String[] args) {
-        BeautyInstitut testBackendInstitut = new BeautyInstitut();
+        BeautyInstitute beautyInstitute = new BeautyInstitute();
     }
 }
